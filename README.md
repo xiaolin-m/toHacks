@@ -1,4 +1,5 @@
 # Moody-Bot
+template sourced from: https://github.com/ZerioDev/Music-bot
 
 ### ⚡ Installation
 
