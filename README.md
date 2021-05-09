@@ -1,9 +1,4 @@
-# Music-bot
-A complete code to download for a music bot. Using a module (discord-player) 🎧
-
-Looking for a code for a music bot ? This fully open source code is made for your project !
-
-If you need help with this project, to get support faster you can join the help server by just clicking [here](https://discord.gg/5cGSYV8ZZj).
+# Moody-Bot
 
 ### ⚡ Installation
 
@@ -55,6 +50,7 @@ All you have to do is turn on your bot !
 ### 🎵 Music commands
 
 ```
+join, asks you for your mood then plays randomly generated music according to your mood!
 play <name/URL>, play music in a voice channel.
 search <name>, open a panel to choose a music and then play it.
 pause, pause the current music.
