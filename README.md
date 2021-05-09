@@ -11,10 +11,11 @@ For the bot to be able to start, please complete the file with your credentials 
 ```js
 emojis: {
     off: ':x:',
-    error: ':warning:',
-    queue: ':bar_chart:',
-    music: ':musical_note:',
+    error: ':sunflower:',
+    queue: ':musical_note:',
+    music: ':cow:',
     success: ':white_check_mark:',
+    join: ':seedling:',
 }
 ```
 
@@ -50,7 +51,7 @@ All you have to do is turn on your bot !
 ### 🎵 Music commands
 
 ```
-join, asks you for your mood then plays randomly generated music according to your mood!
+mood, asks you for your mood then plays randomly generated music according to your mood!
 play <name/URL>, play music in a voice channel.
 search <name>, open a panel to choose a music and then play it.
 pause, pause the current music.
